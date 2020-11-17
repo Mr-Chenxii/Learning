@@ -7,7 +7,7 @@
 1. 更改DNS：将其设置为114.114.114.114或8.8.8.8
 2. 目前还未知DNS的一些知识，学习之后回来补充。
 
-![image test](C:\Users\windows\Desktop\计算机作业\geek考核\Visual studio.png)
+![image test](https://raw.githubusercontent.com/Mr-Chenxii/Learning/main/%E5%9B%BE%E7%89%87/Visual%20studio.png)
 
 ### 2.visual studio code的安装
 
