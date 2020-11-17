@@ -1,3 +1,7 @@
+---
+
+---
+
 # 初识github 2020.11.05
 
  ## 1、拥有自己的第一个github账户
@@ -25,5 +29,49 @@
 
 学了之后才发现Git上就可以访问Github的仓库，根本不需要用到浏览器。。逐渐脱离图形化，有点`hacker`的感觉了。哈哈哈
 
-* 1、
+基本原理，文件先从工作区添加(add)到缓存区（stage)，再提交到(commit)主分支内。
+
+
+
+### 3.1查看仓库状态
+
+```java
+执行 git init创建一个新的仓库
+    git status查看仓库状态
+  git cmd上显示  On branch main
+            No commits yet
+```
+
+### 3.2暂存文件与提交文件
+
+```java
+首先在仓库内新建一个文件
+    查看仓库状态后
+    会提示 (use "git add <file>..."to include in what will be committed)
+    nothing added to commit but untracked files present (use "git add" to track)
+    执行 git add .
+    再次执行 git status
+    会发现 上面的提示已经消失
+    出现新提示（use "git rm --cached<file>..." to unstage) new file:
+    
+    执行git commit -m(加注释)
+        此时文件已经成功提交到主分支内
+        再次查看仓库状态git status
+        可知工作区没有新的文件可以添加
+```
+
+### 3.3将文件提交到github上。
+
+1. 首先关联你的github账户
+
+```c
+在git cmd上输入 git remote add (你的github地址)
+    成功后可以使用 git remote -v查看状态
+    使用 git push上传你的仓库文件
+    
+```
+
+
+
+
 
