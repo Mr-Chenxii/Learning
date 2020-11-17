@@ -314,7 +314,7 @@ p {color:blue;}
 
 
 
-![image test](C:\Users\windows\Desktop\计算机作业\geek考核\CSS盒子模型.png)
+![image test](https://raw.githubusercontent.com/Mr-Chenxii/Learning/main/%E5%9B%BE%E7%89%87/CSS%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B.png)
 
 
 
