@@ -12,7 +12,7 @@
 
 下面上图!
 
-![我的照片](C:\Users\windows\Desktop\新建文件夹\GitHub2.png)
+![image test](C:\Users\windows\Desktop\计算机作业\geek考核\GitHub2.png)
 
 ## 2、电脑上下载Git
 
@@ -23,7 +23,7 @@
 
 * 3、安装成功
 
-  ![我的照片](C:\Users\windows\Desktop\新建文件夹\Git.png)
+  ![image test](C:\Users\windows\Desktop\计算机作业\geek考核\Git.png)
 
 ## 3、学习Git的一些基本操作
 
