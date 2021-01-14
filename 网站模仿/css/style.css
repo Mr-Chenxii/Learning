@@ -1,7 +1,7 @@
 @media(min-width:551px){
     #dh[data-v-1]{
         position:absolute;
-        background:url(http://img.nt-geek.club/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%88%E6%9C%AC5.png);
+        background:url(/img/首页背景.png);
         background-size:100% 100%;
         width:96%;
         height:61vw;
@@ -9,6 +9,7 @@
         left:2%;
         right:2%;
         margin:0 auto;
+        z-index: -1;
         top:2%}
     #GEEK[data-v-1]{
         position:relative;
