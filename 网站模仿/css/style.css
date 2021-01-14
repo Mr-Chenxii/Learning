@@ -1,0 +1,338 @@
+@media(min-width:551px){
+    #dh[data-v-1]{
+        position:absolute;
+        background:url(http://img.nt-geek.club/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%88%E6%9C%AC5.png);
+        background-size:100% 100%;
+        width:96%;
+        height:61vw;
+        background-color:#fff;
+        left:2%;
+        right:2%;
+        margin:0 auto;
+        top:2%}
+    #GEEK[data-v-1]{
+        position:relative;
+        width:90%;
+        top:1vw;
+        left:3vw;
+        max-width: auto;
+        height: auto;
+        cursor:pointer}
+    #geek[data-v-1]{
+        position:relative;
+        width:40vw;
+        top:2vw;
+        cursor:pointer}
+    button[data-v-1]{
+        position:absolute;
+        top:6%;
+        left:25vw;
+        outline:none;
+        background:none;
+        border:none;
+        -webkit-transition-duration:.5s;
+        transition-duration:.5s}
+    button[data-v-1]:hover{
+        -webkit-transform:scale(1.1);
+        transform:scale(1.1)}
+    #sayings[data-v-1]{
+        position:absolute;
+        font-family:HWHupo;
+        font-size:1.8vw;
+        font-weight:900;
+        color:#929292;
+        left:39vw;
+        top:21vw;
+        cursor:pointer}
+
+}
+
+@media screen and (min-width:501px){
+    #introuduce1[data-v-2]{
+        position:relative;
+        top:65vw;
+        width:51%;
+        left:.5%}
+    #int[data-v-2]{
+        position:absolute;
+        width:33vw;
+        left:80%;
+        top:7vw}
+    #gd[data-v-2]{
+        position:absolute;
+        width:210%;
+        left:14%}
+} 
+
+@media screen and (min-width:501px){
+    #fontend[data-v-3]{
+        position:relative;
+        top:75vw;
+        height:60vw;
+        left:-7%}
+    #monkey[data-v-3]{
+        width:34vw;
+        height:45vw;
+        position:absolute;
+        top:15%;
+        left:75%}
+    #文字1[data-v-3]{
+        position:relative;
+        top:19%;
+        left:20%;
+        font-family:FZYaoti;
+        width:40vw}
+    #开发程序猿[data-v-3]{
+        font-size:3.5vw}
+    #Stay[data-v-3]{
+        font-size:2.5vw;
+        position:relative;
+        top:-1vw}
+        span[data-v-3]{
+            font-size:2vw;
+            font-family:FZYaoti}
+        p[data-v-3]{
+            color:#7bd3ff;
+            font-size:3vw;
+            font-family:FZYaoti;
+            line-height:2}
+        li[data-v-3]{
+            position:relative;
+            font-size:2vw;
+            font-family:FZYaoti;
+            left:0}
+}   
+
+@media screen and (min-width:501px){
+    #chanpin[data-v-4]{
+        width:35vw;
+        height:43vw;
+        position:absolute;
+        top:0;
+        left:18%}
+    #cat[data-v-4]{
+        position:relative;
+        top:76vw;
+        left:-8%}
+    #wen2[data-v-4]{
+        position:absolute;
+        font-family:FZYaoti;
+        top:1.5vw;
+        left:66%;
+        width:40vw}
+    #p1[data-v-4]{font-size:3vw}
+    #ab[data-v-4]{
+        font-size:2vw;
+        font-family:FZYaoti}
+    .a[data-v-4]{
+        position:relative;
+        top:3vw}
+    span[data-v-4]{
+        font-size:2vw;
+        font-family:FZYaoti}
+    p[data-v-4]{
+        font-size:2.7vw;
+        font-family:FZYaoti;
+        position:relative;
+        top:1.5vw}
+    #ab[data-v-4]
+    li[data-v-4]{
+        font-size:2vw;
+        font-family:FZYaoti;}
+}
+
+@media (min-width:501px){
+#ai[data-v-5]{
+    position:absolute;
+    top:-2%;
+    left:42%;
+    height:44vw;
+    width:45vw;
+    z-index: -1;
+}
+#rengong[data-v-5]{
+    position:relative;
+    top:128vw;
+    left:15%}
+#we2[data-v-5]{
+    font-size:2.5vw;
+    position:relative;
+    top:.5vw}
+#wen2[data-v-5]{
+    position:relative;
+    top:3vw;
+    width:40vw}
+    span[data-v-5]{
+        font-size:2vw;
+        font-family:FZYaoti}
+    p[data-v-5]{
+        color:#7bd3ff;
+        font-size:2.7vw;
+        font-family:FZYaoti;
+        line-height:2}
+    li[data-v-5]{
+        font-size:2vw;
+        font-family:FZYaoti;
+        position:relative;
+        top:1.5vw}
+}
+
+@media (min-width:501px){
+#se[data-v-6]{
+    position:relative;
+    left:5%;
+    top:150vw}
+#lion[data-v-6]{
+    position:absolute;
+    width:38vw;
+    height:42vw;
+    top:-2%;
+    left:5%}
+#wen3[data-v-6]{
+    position:absolute;
+    top:3vw;
+    left:58%;
+    width:40vw}
+#w1[data-v-6]{
+    font-size:3vw}
+    span[data-v-6]{
+        font-size:2vw;
+        font-family:FZYaoti}
+    p[data-v-6]{
+        color:#7bd3ff;
+        font-size:2.3vw;
+        font-family:FZYaoti;
+        color:#6495ed;
+        position:relative;
+        top:1.5vw}
+    li[data-v-6]{
+        font-size:2vw;
+        font-family:FZYaoti}
+#w2[data-v-6]{
+    position:relative;
+    top:2vw}
+.c[data-v-6]{
+    position:relative;
+    top:3vw}
+}
+
+@media (min-width:501px){
+    #关于[data-v-7]{
+        position:absolute;
+        top:-40%;
+        width:20vw;
+        left:43%}
+    #aboutus[data-v-7]{
+        position:absolute;
+        left:10%;
+        top:300vw}
+    #虫子[data-v-7]{
+        position:absolute;
+        top:13vw;
+        width:9vw;
+        left:-5%}
+    #蝴蝶[data-v-7]{
+        position:absolute;
+        top:20vw;
+        width:9.5vw;
+        right:-13vw}
+    #leftdown[data-v-7]{
+        position:absolute;
+        top:33vw;
+        left:0}
+    #ringtdown[data-v-7]{
+        position:absolute;
+        top:33vw;
+        right:-13vw}
+    #rights[data-v-7]{
+        right:-13vw}
+    #lefts[data-v-7],
+    #rights[data-v-7]{
+        position:absolute;
+        top:-8vw}
+    #多元[data-v-7],
+    #例会[data-v-7],
+    #h30[data-v-7]{
+        width:10vw;
+        height:13vw;
+        position:relative;
+        top:2vw;
+        left:17%}
+    .方框1[data-v-7],
+    .方框2[data-v-7],
+    .方框3[data-v-7]{
+        position:relative;
+        float:right;
+        margin-right:4.5vw;
+        border:.8vw solid #8b88b7;
+        border-radius:3vw;
+        font-family:FZYaoti;
+        height:29vw;
+        width:16vw;
+        top:-1vw;
+        left:12%}
+    .q[data-v-7]{
+        width:12vw}
+    span[data-v-7]{
+         position:absolute;
+        top:16vw;
+        text-align:center;
+        font-size:1.5vw;
+        left:10%;
+        right:10%}
+}
+  
+@media (min-width:501px){
+    #lefts[data-v-8]{
+        height:38vw;
+        position:relative;
+        left:15%}
+    #rights[data-v-8]{
+        height:43vw;
+        position:relative;
+        left:51%;
+        top:0}
+    #contact[data-v-8]{
+        position:relative;
+        right:8%;
+        top:256vw}
+    #uscontact[data-v-8]{
+        width:24vw;
+        position:relative;
+        top:-38vw;
+        right:16%}
+}
+    
+    
+@media(min-width:551px){
+    button{
+        position:relative;
+        background:none;
+        border:none;
+        outline:none;
+        cursor:pointer;
+        -webkit-transition-duration:.4s;
+        transition-duration:.4s}
+    ul{list-style-type:none;
+        margin:0;
+        padding:0;
+        width:96%;
+        z-index:20;
+        left:2%;
+        top:1%;
+        border-radius:50%;
+        background-color:#fff4c3;
+        height:3.6vw;
+        position:fixed;
+        overflow:none;
+        -webkit-transition:top .5;
+        transition:top .5}
+    #新思路{
+        position:relative;
+        left:10vw;
+        font-size:2.5vw;
+        font-family:Agency FB;
+        font-weight:800;
+        width:20vw;color:#5c5c5c
+    }
+}
