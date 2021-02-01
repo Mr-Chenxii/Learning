@@ -28,7 +28,7 @@ Youtube，Instagram，豆瓣，知乎，果壳，EVE，Blender等都是通过pyt
 
   解释器: 将python的语言进行翻译或者解释为计算机可以识别的二进制语言的程序。
 
-  ![python解释器的查看方法](./python解释器的查看方法.png)
+  ![python解释器的查看方法](https://gitee.com/Mr-Chenxii/gitpage/blob/main/img/python解释器的查看方法.png)
 
 - **文本编译器:** 我常用的是vscode，便捷小巧，可以按照自己的需求添加各种各样的插件，c语言，c++都可以用它进行编译。
 
@@ -470,7 +470,7 @@ class Cat(Animal):
 
 继承还可以一级一级地继承下来，就好比从爷爷到爸爸、再到儿子这样的关系。
 
-![照片](./继承树.png)
+![照片](https://gitee.com/Mr-Chenxii/gitpage/blob/main/img/继承树.png)
 
 ### 七.IO操作
 
