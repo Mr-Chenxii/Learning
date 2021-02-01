@@ -28,7 +28,7 @@ Youtube，Instagram，豆瓣，知乎，果壳，EVE，Blender等都是通过pyt
 
   解释器: 将python的语言进行翻译或者解释为计算机可以识别的二进制语言的程序。
 
-  ![python解释器的查看方法](https://gitee.com/Mr-Chenxii/gitpage/blob/main/img/python解释器的查看方法.png)
+  ![python解释器的查看方法](https://gitee.com/Mr-Chenxii/gitpage/blob/main/img/python%E8%A7%A3%E9%87%8A%E5%99%A8%E7%9A%84%E6%9F%A5%E7%9C%8B%E6%96%B9%E6%B3%95.png)
 
 - **文本编译器:** 我常用的是vscode，便捷小巧，可以按照自己的需求添加各种各样的插件，c语言，c++都可以用它进行编译。
 
