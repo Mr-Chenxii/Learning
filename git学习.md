@@ -12,7 +12,7 @@
 
 从GitHub上克隆仓库，`git clone + github上的URL地址`
 
-![image-20211119190810208](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211119190810208.png)
+![image-20211119190810208](https://github.com/Mr-Chenxii/Learning/blob/main/%E5%9B%BE%E7%89%87/image-20211119190810208.png)
 
 成功后可以发现本地的仓库多了clone下来的文件
 
@@ -90,10 +90,10 @@
 
 2. `Branch 'main' set up to track remote branch 'main' from 'origin'`报错
 
-报错背景：![image-20211119202443436](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211119202443436.png)
+报错背景：![image-20211119202443436](https://github.com/Mr-Chenxii/Learning/blob/main/%E5%9B%BE%E7%89%87/image-20211119202443436.png)
 
 报错原因：根本原因在于推送的分支没有做commit操作
 
-解决方法：![image-20211119202704905](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211119202704905.png)
+解决方法：![image-20211119202704905](https://github.com/Mr-Chenxii/Learning/blob/main/%E5%9B%BE%E7%89%87/image-20211119202704905.png)
 
-即可push成功![image-20211119202828605](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211119202828605.png)
+即可push成功![image-20211119202828605](https://github.com/Mr-Chenxii/Learning/blob/main/%E5%9B%BE%E7%89%87/image-20211119202828605.png)
